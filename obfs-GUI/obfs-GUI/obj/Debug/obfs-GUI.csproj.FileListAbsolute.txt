@@ -1,0 +1,8 @@
+c:\users\kaguya\documents\visual studio 2015\Projects\obfs-GUI\obfs-GUI\bin\Debug\obfs-GUI.exe.config
+c:\users\kaguya\documents\visual studio 2015\Projects\obfs-GUI\obfs-GUI\bin\Debug\obfs-GUI.exe
+c:\users\kaguya\documents\visual studio 2015\Projects\obfs-GUI\obfs-GUI\bin\Debug\obfs-GUI.pdb
+c:\users\kaguya\documents\visual studio 2015\Projects\obfs-GUI\obfs-GUI\obj\Debug\obfs-GUI.csprojResolveAssemblyReference.cache
+c:\users\kaguya\documents\visual studio 2015\Projects\obfs-GUI\obfs-GUI\obj\Debug\obfs_GUI.Properties.Resources.resources
+c:\users\kaguya\documents\visual studio 2015\Projects\obfs-GUI\obfs-GUI\obj\Debug\obfs-GUI.csproj.GenerateResource.Cache
+c:\users\kaguya\documents\visual studio 2015\Projects\obfs-GUI\obfs-GUI\obj\Debug\obfs-GUI.exe
+c:\users\kaguya\documents\visual studio 2015\Projects\obfs-GUI\obfs-GUI\obj\Debug\obfs-GUI.pdb
